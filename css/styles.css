@@ -64,10 +64,6 @@ body {
     outline-style: dashed;
 }
 
-.features-link:focus {
-    color: var(--color-heading);
-}
-
 img {
     max-width: 100%;
     height: auto;
@@ -363,10 +359,6 @@ img {
 
 .social-network-icon-link:hover {
     opacity: 0.6;
-}
-
-.social-network-icon-link:active {
-    opacity: 0.4;
 }
 
 .social-network-icon:not(:last-child) {
